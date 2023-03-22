@@ -4,7 +4,7 @@
 - 另外還有搭配使用 javaMail 來做忘記密碼的信件寄送，以及密碼使用 md5 做加密
 
 ### 導覽
-<table>
+<table border="0">
     <tbody>
         <tr>
             <td>
