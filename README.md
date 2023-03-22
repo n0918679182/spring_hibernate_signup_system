@@ -11,7 +11,7 @@
 </kbd>
 
 #### - 註冊畫面
-input 失焦時會透過 ajax 送出請求給後端來判斷信箱是否重複註冊
+##### - input 失焦時會透過 ajax 送出請求給後端來判斷信箱是否重複註冊
 <kbd>
     <img src="https://github.com/n0918679182/spring_hibernate_signup_system/blob/master/readme_img/signup.png?raw=true">
 </kbd>
