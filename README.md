@@ -4,31 +4,18 @@
 - 另外還有搭配使用 javaMail 來做忘記密碼的信件寄送，以及密碼使用 md5 做加密
 
 ### 導覽
-<table border="0">
-    <tbody>
-        <tr>
-            <td>
-                <img src="https://github.com/n0918679182/spring_hibernate_signup_system/blob/master/readme_img/signin.png?raw=true">
-            </td>
-            <td>
-                <img src="https://github.com/n0918679182/spring_hibernate_signup_system/blob/master/readme_img/signup.png?raw=true">
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <img src="https://github.com/n0918679182/spring_hibernate_signup_system/blob/master/readme_img/detail.png?raw=true">
-            </td>
-            <td>
-                <img src="">
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <img src="https://github.com/n0918679182/spring_hibernate_signup_system/blob/master/readme_img/forget.png?raw=true">
-            </td>
-            <td>
-                <img src="https://github.com/n0918679182/spring_hibernate_signup_system/blob/master/readme_img/mailtrap.png?raw=true">
-            </td>
-        </tr>
-    </tbody>
-</table>
+
+#### 登入畫面
+<img src="https://github.com/n0918679182/spring_hibernate_signup_system/blob/master/readme_img/signin.png?raw=true">
+
+#### 註冊畫面
+<img src="https://github.com/n0918679182/spring_hibernate_signup_system/blob/master/readme_img/signup.png?raw=true">
+
+#### 會員資料畫面
+<img src="https://github.com/n0918679182/spring_hibernate_signup_system/blob/master/readme_img/detail.png?raw=true">
+
+#### 忘記密碼畫面
+<img src="https://github.com/n0918679182/spring_hibernate_signup_system/blob/master/readme_img/forget.png?raw=true">
+
+#### Mailtrap 收到信件
+<img src="https://github.com/n0918679182/spring_hibernate_signup_system/blob/master/readme_img/mailtrap.png?raw=true">
