@@ -4,6 +4,10 @@
 - 另外還有搭配使用 javaMail 來做忘記密碼的信件寄送，以及密碼使用 md5 做加密
 
 ### 導覽
+<head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css">
+</head>
+<body>
 <table>
     <tbody>
         <tr>
@@ -13,6 +17,9 @@
             <td>
                 <img src="https://images.unsplash.com/photo-1581833971358-2c8b550f87b3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80">
             </td>
+            <td><button class="btn btn-danger"></button></td>
         </tr>
     </tbody>
 </table>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"></script>
+</body>
