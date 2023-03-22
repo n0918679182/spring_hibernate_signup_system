@@ -6,16 +6,16 @@
 ### 導覽
 
 #### 登入畫面
-<img src="https://github.com/n0918679182/spring_hibernate_signup_system/blob/master/readme_img/signin.png?raw=true">
+<img src="https://github.com/n0918679182/spring_hibernate_signup_system/blob/master/readme_img/signin.png?raw=true" style="border: 1px solid #000;">
 
 #### 註冊畫面
-<img src="https://github.com/n0918679182/spring_hibernate_signup_system/blob/master/readme_img/signup.png?raw=true">
+<img src="https://github.com/n0918679182/spring_hibernate_signup_system/blob/master/readme_img/signup.png?raw=true" style="border: 1px solid #000;">
 
 #### 會員資料畫面
-<img src="https://github.com/n0918679182/spring_hibernate_signup_system/blob/master/readme_img/detail.png?raw=true">
+<img src="https://github.com/n0918679182/spring_hibernate_signup_system/blob/master/readme_img/detail.png?raw=true" style="border: 1px solid #000;">
 
 #### 忘記密碼畫面
-<img src="https://github.com/n0918679182/spring_hibernate_signup_system/blob/master/readme_img/forget.png?raw=true">
+<img src="https://github.com/n0918679182/spring_hibernate_signup_system/blob/master/readme_img/forget.png?raw=true" style="border: 1px solid #000;">
 
 #### Mailtrap 收到信件
-<img src="https://github.com/n0918679182/spring_hibernate_signup_system/blob/master/readme_img/mailtrap.png?raw=true">
+<img src="https://github.com/n0918679182/spring_hibernate_signup_system/blob/master/readme_img/mailtrap.png?raw=true" style="border: 1px solid #000;">
